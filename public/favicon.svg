@@ -1,0 +1,26 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield background -->
+  <path d="M16 2L26 6V14C26 21 21 27 16 30C11 27 6 21 6 14V6L16 2Z" fill="url(#gradient1)" stroke="url(#gradient2)" stroke-width="1"/>
+  
+  <!-- Inner shield detail -->
+  <path d="M16 5L23 8V14C23 19.5 19.5 24 16 26.5C12.5 24 9 19.5 9 14V8L16 5Z" fill="url(#gradient3)" opacity="0.8"/>
+  
+  <!-- Quote symbol -->
+  <path d="M12 12C12 10.9 12.9 10 14 10C15.1 10 16 10.9 16 12C16 13.1 15.1 14 14 14H13V16H14C16.2 16 18 14.2 18 12C18 9.8 16.2 8 14 8C11.8 8 10 9.8 10 12V20H12V12Z" fill="white"/>
+  <path d="M18 12C18 10.9 18.9 10 20 10C21.1 10 22 10.9 22 12C22 13.1 21.1 14 20 14H19V16H20C22.2 16 24 14.2 24 12C24 9.8 22.2 8 20 8C17.8 8 16 9.8 16 12V20H18V12Z" fill="white"/>
+  
+  <defs>
+    <linearGradient id="gradient1" x1="6" y1="2" x2="26" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="gradient2" x1="6" y1="2" x2="26" y2="30" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="gradient3" x1="9" y1="5" x2="23" y2="26.5" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.3"/>
+    </linearGradient>
+  </defs>
+</svg>
